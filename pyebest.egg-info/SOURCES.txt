@@ -1,7 +1,0 @@
-LICENSE.txt
-setup.py
-pyebest/__init__.py
-pyebest.egg-info/PKG-INFO
-pyebest.egg-info/SOURCES.txt
-pyebest.egg-info/dependency_links.txt
-pyebest.egg-info/top_level.txt
